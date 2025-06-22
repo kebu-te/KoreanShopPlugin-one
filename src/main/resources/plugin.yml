@@ -1,0 +1,4 @@
+name: KoreanShopPlugin
+version: 1.0
+main: me.kebute.shop.KoreanShopPlugin
+api-version: 1.20
